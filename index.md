@@ -1,3 +1,10 @@
+# Jacob Hoffman's First CS193 Homework
+
+Favorite Things about CS193
+- it's pretty easy to walk to
+- it isn't crazy hard
+- the people are pretty cool
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
